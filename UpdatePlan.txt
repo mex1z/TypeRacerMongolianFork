@@ -1,10 +1,10 @@
-Design: Muug Tengis
+Design: Usukhuu
 Level: Muug Tengis
 Animal icons: Usukhuu
-Main Menu:
-Difficulty settings:
-Timer:
-Dark, Light themes:
-Refresh leaderboard:
-Word File aas randomaar text husah:
-Heden ug bicihee songdog setting:
+Main Menu: Muug Tengis
+Difficulty settings:Muug Tengis
+Timer:Muug Tengis
+Dark, Light themes: Babu
+Refresh leaderboard: Dorj, Yadam
+Word File aas randomaar text husah: Muug Tengis
+Heden ug bicihee songdog setting: Muug Tengis
